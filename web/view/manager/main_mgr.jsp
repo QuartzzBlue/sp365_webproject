@@ -128,7 +128,7 @@
 				<div class="col-lg-11">
 					<nav class="navbar navbar-expand-lg navbar-light">
 						<a class="navbar-brand" href="main_mgr.sp"> <img
-							src="img/logo.png" alt="logo">
+							src="img/logo02.JPG" alt="logo"  width=130px;>
 						</a>
 						<button class="navbar-toggler" type="button"
 							data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -146,7 +146,7 @@
 										Home</a></li>
 								<li class="nav-item"><a class="nav-link" href="qna_mgr.sp">Q&A</a></li>
 								<li class="nav-item"><a class="nav-link"
-									href="statistics_mgr.sp">Statistics</a></li>
+									href="statistics_mgr.sp?productType=All&period=total&cond=monthly">Statistics</a></li>
 							</ul>
 						</div>
 						<div>
@@ -172,7 +172,7 @@
 							<img class="img_size1" src="img/manager/msg.png">
 							<div id="notification">${b_count }&nbsp;</div>
 						</div>
-					</a> <a href="statistics_mgr.sp"><img class="img_size2 btn_on"
+					</a> <a href="statistics_mgr.sp?productType=All&period=total&cond=monthly"><img class="img_size2 btn_on"
 						src="img/manager/stat.png"></a>
 				</div>
 			</c:when>
