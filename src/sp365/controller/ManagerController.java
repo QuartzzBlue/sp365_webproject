@@ -101,6 +101,7 @@ public class ManagerController {
 		return result;
 	}
 
+	//Ελ°θ
 	@RequestMapping("/statistics_mgr.sp")
 	public ModelAndView statistics_mgr(ModelAndView mv, HttpServletRequest request) {
 		String productType = request.getParameter("productType");

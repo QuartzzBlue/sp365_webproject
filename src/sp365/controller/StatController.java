@@ -30,11 +30,6 @@ public class StatController {
 		String cond = request.getParameter("cond");
 		System.out.println(productType + " " + period + " " + cond);
 
-//		if (cond.equals("payment")) {
-//			System.out.println("payment");
-//			statlist = sbiz.getbypayment();
-//		} else 
-
 		// 전체 상품
 		if (productType.equals("All")) {
 			mv.addObject("productType_name", "전체");
