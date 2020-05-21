@@ -2,6 +2,7 @@
 
 웹 쇼핑몰 직접 둘러보기 ⇒ [SP365 바로가기](http://15.165.163.102/sp365/main.sp) 
 
+
 - 쇼핑몰 ID/PW
     - **관리자**
         - ID : admin
@@ -10,7 +11,13 @@
         - ID : id01
         - PW : test01
 
+
+
+편하게 Notion에서 읽기 ⇒ [Notion 바로가기](https://www.notion.so/SP365_-9e57179d516e4649a86b13a5c933df27)
+
+
 ---
+
 
 ## 1. 프로젝트 개요
 
